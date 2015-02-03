@@ -1,0 +1,21 @@
+{
+  "name": "bower-arti-resolver",
+  "version": "0.9.0",
+  "description": "The Artifactory Bower Resolver",
+  "main": "./lib/index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "q":"*",
+    "util":"*",
+    "url":"*",
+    "mout":"*",
+    "path":"*",
+    "request":"*",
+    "bower-config":"*"
+  },
+  "peerDependencies": {
+    "bower": "1.3.12"
+  }
+}
