@@ -16,6 +16,6 @@
     "bower-config":"*"
   },
   "peerDependencies": {
-    "bower": "1.3.12"
+    "bower-poc": "1.3.12"
   }
 }
