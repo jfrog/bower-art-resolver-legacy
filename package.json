@@ -1,6 +1,6 @@
 {
   "name": "bower-art-resolver",
-  "version": "1.0.4-beta",
+  "version": "1.0.5-beta2",
   "description": "The Artifactory Bower Resolver",
   "main": "./lib/index.js",
   "scripts": {
@@ -27,6 +27,6 @@
     "lru-cache": "~2.5.0"
   },
   "peerDependencies": {
-    "bower-art": "1.0.0-beta"
+    "bower-art": "1.0.0-beta2"
   }
 }
