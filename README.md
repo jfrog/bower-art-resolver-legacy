@@ -1,6 +1,10 @@
 # bower-art-resolver
 Artifactory resolver for Bower, a custom resolver dedicated to integrate with Artifactory.
 
+## Deprecated
+
+***This repository has been deprecated and is replaced by [bower-art-resolver](https://github.com/JFrogDev/bower-art-resolver).***
+
 ## Installation
 `npm install -g bower-art-resolver`
 
